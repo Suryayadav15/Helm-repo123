@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  adi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-01T05:46:34.943047465Z"
+    description: A Helm chart for Kubernetes
+    digest: 0ade0081f3f24e750874ade5b969073792d9980c3fb7b37e0b3bda4c88b415ba
+    name: adi
+    type: application
+    urls:
+    - adi-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-01T05:46:34.942307642Z"
